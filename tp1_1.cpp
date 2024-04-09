@@ -6,8 +6,6 @@ int main (){
     int v = 10; 
     int *p = &v;
 
-    printf("\nHola Mundo\n");
-
     // 1) 
     printf("El contenido del puntero: %d\n", *p);
 
